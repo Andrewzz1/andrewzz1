@@ -1,4 +1,4 @@
-## hi there I'm Andrew Sherif
+## Hi there I'm Andrew Sherif
 
 ---
 
