@@ -1,5 +1,6 @@
 ### Hi there👋 I'm Andrew Sherif
 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85px">
 ---
 
 <h3 align="left">Connect with me:</h3>
